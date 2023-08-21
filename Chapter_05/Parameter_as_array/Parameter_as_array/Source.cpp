@@ -26,5 +26,7 @@ int main()
 	Array_function(array, array_size);
 	cout << endl;
 
+	 //the output: Total sum 550
+	
 	return 0;
 }

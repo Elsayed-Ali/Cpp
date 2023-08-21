@@ -24,5 +24,7 @@ int main()
 	cout << Factorial_function(10);
 	cout << endl;
 
+	//the output : 3628800
+
 	return 0;
 }

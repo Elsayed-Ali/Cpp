@@ -31,6 +31,24 @@ int main()
 	cout << "\n==========================\n\n";
 
 
+/*
+	output:
+
+		Alsayed Ali has  19 years.
+
+		==========================
+
+		Abdallah Tarek has  19 years.
+
+		==========================
+
+		Youssef Amer has  20 years.
+
+		==========================
+
+
+*/
+
 	return 0;
 }
 
